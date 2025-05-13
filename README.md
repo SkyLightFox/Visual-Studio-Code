@@ -1,3 +1,3 @@
 # Visual-Studio-Code
-Made by SkyLightFox from Discord.com
+Made by SkyLightFox
 These are my files as I start to code once again.
